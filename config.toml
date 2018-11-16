@@ -1,10 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Future Imperfect"
+title = "Wound"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "www-abser-topd.disqus.com"
+disqusShortname = "www-abser-top.disqus.com"
 googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
@@ -13,9 +13,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Abser's Blog, HTML5 UP theme, Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "Gone With Wind"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -87,11 +87,11 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "Abser's Blog"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "Artist ，<a href=\"https://github.com\">CODER</a>. GeekAbser <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Come, said my soul,------------------------------------Such verses for my Body let us write, (for we are one,)---------------------------------------------------------That should I after return,   ---------------------------Or, long, long hence, in other spheres,-------------There to some group of mates the chants resuming,   --------------------------------------------------(Tallying Earth's soil, trees, winds, tumultuous waves,)  --------------------------------------------------Ever with pleas'd smile I may keep on, -----------Ever and ever yet the verses owning--as, first, I here and now Signing for Soul and Body, set to them my name,   ---------------------------------------------------------------------------Walt Whitman"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -151,7 +151,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
+  github           = "yhyddr"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -180,8 +180,8 @@ canonifyURLs = true
   vimeo            = ""
   whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat         = ""
-    qq             = "" # User ID Number
+    wechat         = "abser9216"
+    qq             = "349037616" # User ID Number
   instagram        = "example"
   tumblr           = ""
   twitter          = "example"
@@ -194,4 +194,4 @@ canonifyURLs = true
   orcid            = ""
   researchgate     = "example"
   # Email
-  email            = "example"
+  email            = "abser@foxmail.com"
