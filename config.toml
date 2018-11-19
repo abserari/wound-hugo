@@ -13,7 +13,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "Abser's Blog, HTML5 UP theme, Powered by Hugo"
+  description          = "Keep Coding,Keep Windy"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Gone With Wind"
   # Sets where "View More Posts" links
@@ -38,8 +38,8 @@ canonifyURLs = true
   # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
   # These are stored in the favicon folder. See the following for more information:
   # https://github.com/audreyr/favicon-cheat-sheet
-  loadFavicon          = false
-  faviconVersion       = ""
+  loadFavicon          = true
+  faviconVersion       = "favicon.ico"
   # Sets Social Share links to appear on posts
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)

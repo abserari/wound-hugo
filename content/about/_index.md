@@ -1,29 +1,17 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Me"
+date = "2018-11-11"
 +++
 
-Hugo is a static site engine written in Go.
+I’m just another teenager who likes writing, programming and making stuff. I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.
+
+Recently I’ve also started taking interest in web designing and hosting the fruitful results of which these site and blogs are! Making stuff is just one of the things I love the most.
+
+Curious about me? Use the social links above to contact me, or, with email.
+
+You can also support me on Alipay. I’d really appreciate it.
+
+Also, This is a blog by Hugo. If you want a Theme or a web site like me, There is a tutorial to help you.
 
 
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+That’s all that I can think of right now. Hopefully I’ll add something more to this later on. 😅
