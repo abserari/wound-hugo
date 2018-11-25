@@ -12,7 +12,7 @@ type = "post"
 
 +++
 
-
+更好的阅读参见我的[语雀](https://www.yuque.com/abser/share/nfx0a4)
 
 ## 基数计数基本概念
 
