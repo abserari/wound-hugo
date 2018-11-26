@@ -1,4 +1,4 @@
-baseurl = "http://abser.top"
+baseurl = "/"
 languageCode = "en-us"
 title = "Wound"
 theme = "hugo-future-imperfect"
