@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Wound"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 10
 disqusShortname = "www-abser-top.disqus.com"
 googleAnalytics = ""
 pluralizeListTitles = false
@@ -44,12 +44,12 @@ canonifyURLs = true
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
-  socialShareGoogleplus = true
-  socialShareFacebook  = true
+  socialShareGoogleplus = false
+  socialShareFacebook  = false
   socialShareReddit    = true
-  socialShareLinkedin  = true
-  socialShareStumbleupon = true
-  socialSharePinterest = true
+  socialShareLinkedin  = false
+  socialShareStumbleupon = false
+  socialSharePinterest = false
   socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "Artist ，<a href=\"https://github.com\">CODER</a>. GeekAbser <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Come, said my soul,------------------------------------Such verses for my Body let us write, (for we are one,)---------------------------------------------------------That should I after return,   ---------------------------Or, long, long hence, in other spheres,-------------There to some group of mates the chants resuming,   --------------------------------------------------(Tallying Earth's soil, trees, winds, tumultuous waves,)  --------------------------------------------------Ever with pleas'd smile I may keep on, -----------Ever and ever yet the verses owning--as, first, I here and now Signing for Soul and Body, set to them my name,   ---------------------------------------------------------------------------Walt Whitman"
+  about     = "Come, said my soul,\n Such verses for my Body let us write, (for we are one,) \n That should I after return,   \n Or, long, long hence, in other spheres, \n There to some group of mates the chants resuming,   \n Tallying Earth's soil, trees, winds, tumultuous waves,)  \n Ever with pleas'd smile I may keep on, \n Ever and ever yet the verses owning--as, first, I here and now Signing for Soul and Body, set to them my name,   \n Walt Whitman"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -106,7 +106,7 @@ canonifyURLs = true
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+    sidebar = 8
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
