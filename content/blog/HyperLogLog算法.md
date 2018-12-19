@@ -1,6 +1,6 @@
 +++
 author = "Abser Ari"
-categories = ["Algorithm"]
+categories = ["Algorithm","redis"]
 date = "2018-11-25"
 description = "HyperLogLog"
 featured = "pic03.jpg"
