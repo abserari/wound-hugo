@@ -1,6 +1,6 @@
 +++
 type = "itemized"
-author = "George Jetson"
+author = "Abser"
 date = "2017-06-22"
 title = "Fancy App 1"
 description = "Application for doing cool things."
@@ -9,7 +9,7 @@ featuredpath = ""
 featuredalt = ""
 categories = [""]
 linktitle = ""
-format = "Android"
+format = "Wechat"
 link = "#"
 +++
 
