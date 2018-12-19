@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "Wound"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 10
-disqusShortname = "www-abser-top"
+paginate = 4
+disqusShortname = "abserblog"
 googleAnalytics = ""
 pluralizeListTitles = true
 # Set the followings to true as part of your site SEO
@@ -129,7 +129,7 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
+  name = "Project"
   url = "/itemized/"
   identifier = "fa fa-list"
   weight = 4
