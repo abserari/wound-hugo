@@ -47,7 +47,7 @@ canonifyURLs = true
   socialShareGoogleplus = true
   socialShareFacebook  = true
   socialShareReddit    = true
-  socialShareLinkedin  = false
+  socialShareLinkedin  = true
   socialShareStumbleupon = false
   socialSharePinterest = false
   socialShareEmail     = true
@@ -159,22 +159,22 @@ canonifyURLs = true
   codepen          = ""
   # Visual Art Communities
   deviantart       = ""
-  flickr           = "example"
+  flickr           = "abserui"
   behance          = ""
   dribbble         = ""
   # Publishing Communities
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
+  linkedin         = "abser"
   linkedin_company = "examplebusiness"
   foursquare       = ""
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "Ari Abser"
-  googleplus       = "abser@foxmail.com"
-  reddit           = "example"
+  facebook         = "ari.abser.9"
+  googleplus       = "AbserAri"
+  reddit           = "abserui"
   quora            = ""
   youtube          = ""
   vimeo            = ""
@@ -182,7 +182,7 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = "abser9216"
     qq             = "349037616" # User ID Number
-  instagram        = "example"
+  instagram        = "abserui"
   tumblr           = ""
   twitter          = "abser61207966"
   skype            = ""
