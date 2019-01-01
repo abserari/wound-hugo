@@ -1,7 +1,7 @@
 +++
-type = "itemized"
+type = "golang"
 author = "Abser"
-date = "2018-10-22"
+date = "2017-06-22"
 title = "Deep into Golang"
 description = "Package‘s Organization"
 featured = ""

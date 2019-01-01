@@ -135,6 +135,12 @@ canonifyURLs = true
   weight = 4
 
 [[menu.main]]
+  name = "Golang"
+  url = "/golang/"
+  identifier = "fa fa-list"
+  weight = 4
+
+[[menu.main]]
   name = "Categories"
   url = "/categories/"
   identifier = "fa fa-sitemap"
