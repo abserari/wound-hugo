@@ -5,7 +5,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 4
 disqusShortname = "abserblog"
-googleAnalytics = ""
+googleAnalytics = "UA-132780178-1"
 pluralizeListTitles = true
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
