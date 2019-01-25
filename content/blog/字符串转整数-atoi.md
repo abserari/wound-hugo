@@ -1,6 +1,6 @@
 +++
 author = "Abser"
-categories = ["leetcode-middle"]
+categories = ["leetcode"]
 date = 2018-12-09T16:50:05+08:00
 description = ""
 featured = ""
